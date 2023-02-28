@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Group Policy Objects\{E2F13B98-650F-47DB-845A-420A1ED34EC7}User\Software\Microsoft\Windows\CurrentVersion\Policies\Associations]
+"LowRiskFileTypes"=".exe;.bat;.cmd;.vbs;.py;.pyw"
+
+[HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Policies\Associations]
+"LowRiskFileTypes"=".exe;.bat;.cmd;.vbs;.py;.pyw"
